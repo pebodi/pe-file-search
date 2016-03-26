@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainWindow.cs">
+    <Files>
+      <File FileName="MainWindow.cs" Line="31" Column="14" />
+      <File FileName="Controller.cs" Line="190" Column="17" />
+      <File FileName="IO\FSLib.cs" Line="27" Column="3" />
+      <File FileName="IO\FSSamples.cs" Line="34" Column="16" />
+      <File FileName="IO\FSSettings.cs" Line="27" Column="3" />
+      <File FileName="Main.cs" Line="10" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

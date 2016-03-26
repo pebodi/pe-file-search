@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSearch", "FileSearch.csproj", "{CDCEFF4E-AB8F-4B39-8393-73558CF69458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCEFF4E-AB8F-4B39-8393-73558CF69458}.Debug|x86.ActiveCfg = Debug|x86
+		{CDCEFF4E-AB8F-4B39-8393-73558CF69458}.Debug|x86.Build.0 = Debug|x86
+		{CDCEFF4E-AB8F-4B39-8393-73558CF69458}.Release|x86.ActiveCfg = Release|x86
+		{CDCEFF4E-AB8F-4B39-8393-73558CF69458}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FileSearch.csproj
+	EndGlobalSection
+EndGlobal
